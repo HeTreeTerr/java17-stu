@@ -78,7 +78,7 @@ public class SwitchDemo {
     }*/
 
     /**
-     * 项目主类
+     * 主类
      * @param args
      */
     public static void main(String[] args) {

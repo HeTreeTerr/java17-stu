@@ -49,6 +49,10 @@ public class StringDemo {
         System.out.println(String.format(jsonStr,"男"));
     }
 
+    /**
+     * 主类
+     * @param args
+     */
     public static void main(String[] args) {
         StringDemo demo = new StringDemo();
         //demo.getJsonStr_V8();

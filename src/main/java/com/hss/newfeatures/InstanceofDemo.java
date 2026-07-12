@@ -36,6 +36,10 @@ public class InstanceofDemo {
         }
     }
 
+    /**
+     * 主类
+     * @param args
+     */
     public static void main(String[] args) {
         InstanceofDemo demo = new InstanceofDemo();
         //Object o = Integer.valueOf(0);
